@@ -1,0 +1,13 @@
+.profile p .heading{
+    width: 200px;
+    display: inline-block;
+    color: blue;
+    text-align: center;
+}
+.profile p{
+    margin-left: 500px;
+}
+
+.profile h1{
+    text-align: center;
+}
